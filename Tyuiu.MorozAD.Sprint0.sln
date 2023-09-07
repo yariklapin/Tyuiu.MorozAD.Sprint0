@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{906ADDE4
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.MorozAD.Sprint0", "Tyuiu.MorozAD.Sprint0\Tyuiu.MorozAD.Sprint0.vcxproj", "{C0059792-1EB4-42B2-B34C-64C0024945F7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{926E3E02-B5A7-4728-B4CA-C1F283BD513B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.MorozAD.Sprint0.Task1", "Tyuiu.MorozAD.Sprint0.Task1\Tyuiu.MorozAD.Sprint0.Task1.vcxproj", "{F54FE79C-8A3E-4448-8641-F9F80F6522F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{C0059792-1EB4-42B2-B34C-64C0024945F7}.Release|x64.Build.0 = Release|x64
 		{C0059792-1EB4-42B2-B34C-64C0024945F7}.Release|x86.ActiveCfg = Release|Win32
 		{C0059792-1EB4-42B2-B34C-64C0024945F7}.Release|x86.Build.0 = Release|Win32
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3}.Debug|x64.ActiveCfg = Debug|x64
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3}.Debug|x64.Build.0 = Debug|x64
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3}.Debug|x86.Build.0 = Debug|Win32
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3}.Release|x64.ActiveCfg = Release|x64
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3}.Release|x64.Build.0 = Release|x64
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3}.Release|x86.ActiveCfg = Release|Win32
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C0059792-1EB4-42B2-B34C-64C0024945F7} = {906ADDE4-4C74-48AF-9330-2CDD0DCD808A}
+		{F54FE79C-8A3E-4448-8641-F9F80F6522F3} = {926E3E02-B5A7-4728-B4CA-C1F283BD513B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31037F35-17EC-4327-A647-549CE094724E}
