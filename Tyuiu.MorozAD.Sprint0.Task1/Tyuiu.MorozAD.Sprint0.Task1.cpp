@@ -6,13 +6,12 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "Russian");
-    cout << "Hello World!\n";
-    cout << "Введите ФИО : ";
-    string a;
-    cin >> a;
-    int v;
-    cin >> v;
-    cout << "Возраст = " << v;
+    cout << "Введите откуда вы : ";
+    string city;
+    cin >> city;
+    int age;
+    cin >> age;
+    cout << "Возраст = " << age;
     return 0;
 
 
