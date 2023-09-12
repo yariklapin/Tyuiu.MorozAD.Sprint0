@@ -45,7 +45,7 @@ class ISprint0Task5// не меняется
 	//Если Вы решаете один вариант, то в названии консольного приложения после Task0.(V0) не указываете. 
 {
 public:
-	virtual int Zadacha(float a , float b, float c) = 0; // результат -0, функция любая
+	virtual int Zadacha(int a , int b, int c) = 0; // результат -0, функция любая
 };
 //
 class ISprint0Task6// не меняется
