@@ -8,12 +8,12 @@ int main()
 {
     setlocale(LC_ALL, "Rus");
     cout << "Введеите x:";
-    int x;
+    float x;
     cin >> x;
     cout << "Введеите y:";
-    int y;
+    float y;
     cin >> y;
-    int s = (x * 8) / y * 2;
+    float s = (x * 8) / y * 2;
     cout << "Ответ : "<<s;
 }
 
